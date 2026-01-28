@@ -1,7 +1,10 @@
 # 📦 Texno Scraper
 
 A simple Python web scraper that collects product data (image, title, credit price, and current price) from an online tech store using **Requests**, **BeautifulSoup**, and **dotenv**.
-
+---
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![BeautifulSoup](https://img.shields.io/badge/Scraping-BeautifulSoup-green?style=for-the-badge)
+![Requests](https://img.shields.io/badge/Requests-Library-orange?style=for-the-badge)
 ---
 
 ## 🚀 Features
